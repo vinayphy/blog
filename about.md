@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emerald
+title: About this Blog
 ---
 # Welcome to my blog!
 To know more about me please visit my [homepage](https://vinayphy.github.io/vinayv/)
